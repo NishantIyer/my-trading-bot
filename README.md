@@ -67,7 +67,7 @@ Thanks!
 
 - Copyright (C) 2018 Carlos Rodriguez
 - Copyright (C) 2018 Terra Eclipse, Inc. (http://www.terraeclipse.com/)
-
+- Copyright (C) 2021 Nishant Iyer
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the &quot;Software&quot;), to deal
 in the Software without restriction, including without limitation the rights
