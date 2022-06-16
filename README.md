@@ -2,8 +2,8 @@ WARNING: project is no longer actively maintained, make sure to update any depen
 
 ![zenbot logo](assets/logo.png)
 
-> “An advanced trading bot made using Node.js and MongoDB. It is a command line bot developed origanally by Chris Rodriguez and the modified by Nishant Iyer”
-> – Hail AI
+> An advanced trading bot made using Node.js and MongoDB. It is a command line bot developed origanally by Chris Rodriguez and the modified by Nishant Iyer.
+> Enjoy using! Hope zen makes you some moneyy! Best All efforts.
 
 # Zenbot [![Build/Test Status](https://travis-ci.org/DeviaVir/zenbot.svg?branch=master)](https://travis-ci.org/DeviaVir/zenbot) 
 
