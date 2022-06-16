@@ -49,7 +49,7 @@ P.S., some have asked for how to donate to Zenbot development. We accept donatio
 
 `187rmNSkSvehgcKpBunre6a5wA5hQQop6W`
 
-### DeviaVir's BTC (current maintainer)
+### Nishant Iyer's BTC (major modifier and current maintaner)
 
 `3A5g4GQ2vmjNcnEschCweJJB4umzu66sdY`
 
