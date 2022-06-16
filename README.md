@@ -2,8 +2,8 @@ WARNING: project is no longer actively maintained, make sure to update any depen
 
 ![zenbot logo](assets/logo.png)
 
-> “To follow the path, look to the master, follow the master, walk with the master, see through the master, become the master.”
-> – Zen Proverb
+> “An advanced trading bot made using Node.js and MongoDB. It is a command line bot developed origanally by Chris Rodriguez and the modified by Nishant Iyer”
+> – Hail AI
 
 # Zenbot [![Build/Test Status](https://travis-ci.org/DeviaVir/zenbot.svg?branch=master)](https://travis-ci.org/DeviaVir/zenbot) 
 
@@ -22,6 +22,7 @@ Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB. I
 ## Disclaimer
 
 - Zenbot is NOT a sure-fire profit machine. Use it AT YOUR OWN RISK.
+- This bot wa developed after a lot of research and work so you can trust it a bit :\.
 - Crypto-currency is still an experiment, and therefore so is Zenbot. Meaning, both may fail at any time.
 - Running a bot, and trading in general requires careful study of the risks and parameters involved. A wrong setting can cause you a major loss.
 - Never leave the bot un-monitored for long periods of time. Zenbot doesn't know when to stop, so be prepared to stop it if too much loss occurs.
@@ -65,9 +66,9 @@ Thanks!
 
 ## License: MIT
 
-- Copyright (C) 2018 Carlos Rodriguez
-- Copyright (C) 2018 Terra Eclipse, Inc. (http://www.terraeclipse.com/)
+- Copyright (C) 2022 Chris Rodriguez
 - Copyright (C) 2021 Nishant Iyer
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the &quot;Software&quot;), to deal
 in the Software without restriction, including without limitation the rights
